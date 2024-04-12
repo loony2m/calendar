@@ -54,62 +54,62 @@ body {
 }
 
 #January {
-  background-image: url(/img/January.jpg);
+  background-image: url(./img/January.jpg);
   color: rgb(64, 131, 238);
 }
 
 #February {
-  background-image: url(/img/February.jpg);
+  background-image: url(./img/February.jpg);
   color: rgb(38, 177, 252);
 }
 
 #March {
-  background-image: url(/img/March.jpg);
+  background-image: url(./img/March.jpg);
   color: rgba(255, 187, 0, 0.621);
 }
 
 #April {
-  background-image: url(/img/April.jpg);
+  background-image: url(./img/April.jpg);
   color: rgba(255, 217, 114, 0.672);
 }
 
 #May {
-  background-image: url(/img/May.jpg);
+  background-image: url(./img/May.jpg);
   color: rgba(229, 91, 250, 0.621);
 }
 
 #June {
-  background-image: url(/img/June.jpg);
+  background-image: url(./img/June.jpg);
   color: rgba(18, 154, 0, 0.621);
 }
 
 #July {
-  background-image: url(/img/July.jpg);
+  background-image: url(./img/July.jpg);
   color: rgba(255, 42, 42, 0.621);
 }
 
 #August {
-  background-image: url(/img/August.jpg);
+  background-image: url(./img/August.jpg);
   color: rgba(255, 64, 0, 0.752);
 }
 
 #September {
-  background-image: url(/img/September.jpg);
+  background-image: url(./img/September.jpg);
   color: rgb(255, 209, 26);
 }
 
 #October {
-  background-image: url(/img/October.jpg);
+  background-image: url(./img/October.jpg);
   color: rgb(175, 175, 175);
 }
 
 #November {
-  background-image: url(/img/November.jpg);
+  background-image: url(./img/November.jpg);
   color: rgba(255, 181, 112, 0.621);
 }
 
 #December {
-  background-image: url(/img/December.jpg);
+  background-image: url(./img/December.jpg);
   color: rgb(255, 255, 255);
 }
 
